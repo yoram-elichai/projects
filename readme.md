@@ -10,7 +10,7 @@
 
 
 
-* [video](3dmodeling.md)
+* [watch video](3dmodeling.md)
 
 
 
