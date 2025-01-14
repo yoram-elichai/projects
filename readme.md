@@ -6,11 +6,11 @@
 
 ## 3D modeling 
 
-
-https://github.com/user-attachments/assets/de1958e2-6002-40e8-ba6f-d1f1cea44171
-
-## bla bla bla sad
+<img src="videos\cn-2024-03-12.JPG" alt="3D modeling" width="300"/>
 
 
-https://github.com/user-attachments/assets/6925873e-e762-40f0-beda-1dea1628b0b6
+
+* [video](3dmodeling.md)
+
+
 
