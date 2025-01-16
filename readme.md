@@ -6,7 +6,7 @@
 
 ## 3D modeling 
 
-<img src="videos\cn-2024-03-12.JPG" alt="3D modeling" width="300"/>
+<img src="videos\vs-2025-01-14" alt="3D modeling" width="300"/>
 
 
 
@@ -15,7 +15,7 @@
 
 ## 3D modeling 
 
-<img src="videos\cn-2024-03-12.JPG" alt="3D modeling" width="300"/>
+<img src="videos\vs-2025-01-14.JPG" alt="3D modeling" width="300"/>
 
 
 
