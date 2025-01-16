@@ -7,10 +7,8 @@
 ## 3D modeling 
 
 
-https://github.com/user-attachments/assets/de1958e2-6002-40e8-ba6f-d1f1cea44171
-
-## bla bla bla sad
+https://github.com/user-attachments/assets/43fb582a-5380-4935-a842-f46051dde5a6
 
 
-https://github.com/user-attachments/assets/6925873e-e762-40f0-beda-1dea1628b0b6
+
 
