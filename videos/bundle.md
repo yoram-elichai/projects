@@ -4,13 +4,14 @@
 
 
 
-## 3D modeling 
+## Curve Bundle Adjustment
 
 
-https://github.com/user-attachments/assets/de1958e2-6002-40e8-ba6f-d1f1cea44171
-
-## bla bla bla sad
+https://github.com/user-attachments/assets/3a595b0c-cde5-446b-bcfe-fb61799bf857
 
 
-https://github.com/user-attachments/assets/6925873e-e762-40f0-beda-1dea1628b0b6
+
+
+
+
 
