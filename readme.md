@@ -19,7 +19,7 @@
 
 
 
-* [watch video](videos\3dmodeling.md)
+* [watch video](videos/3dmodeling.md)
 
 
 
