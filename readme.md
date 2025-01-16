@@ -6,7 +6,7 @@
 
 ## 3D modeling 
 
-<img src="videos\vs-2025-01-14" alt="3D modeling" width="300"/>
+<img src="videos\vs-2025-01-14.JPG" alt="3D modeling" width="300"/>
 
 
 
