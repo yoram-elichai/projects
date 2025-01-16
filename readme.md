@@ -17,7 +17,7 @@
 
 ## Curve Bundle Adjustment 
 
-<img src="videos\cn-2025-01-14.JPG" alt="3D modeling" width="200"/>
+<img src="videos\cn-2025-01-14.jpg" alt="3D modeling" width="200"/>
 
 
 
