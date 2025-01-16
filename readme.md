@@ -3,16 +3,15 @@
 
 
 
-## 3D modeling 
+## V-Transform (reversible transform ) + compression
 
-<img src="videos\compersion.png" alt="3D modeling" width="400"/>
-
-
-
-* [watch video](videos/Compersion.md)
+<img src="videos\compression.png" alt="compression" width="400"/>
 
 
-## 3D modeling 
+
+
+
+## Curve 3D modeling 
 
 <img src="videos\vs-2025-01-14.JPG" alt="3D modeling" width="200"/>
 
@@ -23,7 +22,7 @@
 
 ## Curve Bundle Adjustment 
 
-<img src="videos\cn-2025-01-14.jpg" alt="3D modeling" width="200"/>
+<img src="videos\cn-2025-01-14.jpg" alt="Curve Bundle Adjustment" width="200"/>
 
 
 
@@ -33,7 +32,7 @@
 
 ## Curve Visual Odometry
 
-<img src="videos\mc-2025-01-14.JPG" alt="3D modeling" width="200"/>
+<img src="videos\mc-2025-01-14.JPG" alt="Curve Visual Odometry" width="200"/>
 
 
 
