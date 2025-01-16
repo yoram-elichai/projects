@@ -4,7 +4,7 @@
 
 
 
-## 3D modeling 
+## Curve Visual Odometry
 
 
 
