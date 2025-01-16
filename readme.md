@@ -3,7 +3,13 @@
 
 
 
+## 3D modeling 
 
+<img src="videos\compersion.png" alt="3D modeling" width="400"/>
+
+
+
+* [watch video](videos/Compersion.md)
 
 
 ## 3D modeling 
