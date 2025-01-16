@@ -22,3 +22,13 @@
 
 
 * [watch video](videos/bundle.md)
+
+
+
+## Curve Visual Odometry
+
+<img src="videos\mc-2025-01-14.JPG" alt="3D modeling" width="200"/>
+
+
+
+* [watch video](videos/VisualOdometry.md)
