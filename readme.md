@@ -4,7 +4,7 @@
 
 <img src="videos\compression.png" alt="compression" width="400"/>
 
-[watch sample](videos/compression.md)
+[watch sample](assets/compression.md)
 
 
 
