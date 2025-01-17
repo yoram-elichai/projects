@@ -31,7 +31,7 @@
 
 
 
-## Curve Visual Odometry
+## Curve Visual Odometry + slam
 
 <img src="videos\mc-2025-01-14.JPG" alt="Curve Visual Odometry" width="200"/>
 
