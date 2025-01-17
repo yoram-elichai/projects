@@ -2,7 +2,7 @@
 
 ## V-Transform (reversible transform ) + compression
 
-<img src="videos\compression.png" alt="compression" width="400"/>
+<img src="assets\compression.png" alt="compression" width="400"/>
 
 [watch sample](assets/compression.md)
 
