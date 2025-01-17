@@ -4,7 +4,7 @@
 
 <img src="assets\compression.png" alt="compression" width="400"/>
 
-[watch sample](assets/compression.md)
+[watch sample](assets/md/compression.md)
 
 
 
@@ -15,7 +15,7 @@
 
 
 
-* [watch video](assets/3dmodeling.md)
+* [watch video](assets/md/3dmodeling.md)
 
 
 ## Bundle Adjustment 
@@ -24,7 +24,7 @@
 
 
 
-* [watch video](assets/bundle.md)
+* [watch video](assets/md/bundle.md)
 
 
 
@@ -34,4 +34,4 @@
 
 
 
-* [watch video](assets/VisualOdometry.md)
+* [watch video](assets/md/VisualOdometry.md)
