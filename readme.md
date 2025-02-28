@@ -16,6 +16,8 @@
 <img src="assets\cn-2025-01-14.jpg" alt="Curve Bundle Adjustment" width="200"/>
 
 
+* [watch video](assets/md/bundle.md)
+* 
 ## 3D modeling 
 
 <img src="assets\vs-2025-01-14.JPG" alt="3D modeling" width="200"/>
@@ -36,7 +38,6 @@
 
 
 
-* [watch video](assets/md/bundle.md)
 
 
 
